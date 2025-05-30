@@ -1,3 +1,6 @@
+## Project Completion Date
+May 30, 2025
+
 # 🧪 Quantitative Estimation of Sugar Simulation
 
 This project is a 3D simulation of the "Quantitative Estimation of Sugars Using Iodometric Titration" chemistry experiment. Designed as an educational tool, it helps students and learners interactively explore the experiment steps in a virtual lab environment.
@@ -50,8 +53,6 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 
 
 ## 📁 Project Structure
-
-Completed on: **2025-05-30**
 
 - Scenes/         # Contains the main simulation and exam scenes 
 - Scripts/        # All C# scripts for tutorial logic, experiment flow, and UI
