@@ -70,7 +70,7 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mekkawy94/Quantitative-Estimintaion-of-Sugar-Simulation.git
+   git clone https://github.com/Mekkawy94/Quantitative-Estimation-of-Sugar-Simulation.git
 
 
 
