@@ -7,6 +7,9 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 ## 📷 Screenshots
 
 ![Main Menu](Screenshots/Main%20Menu.png)
+![Explanation Scene](Screenshots/Explanation%20Scene.png)
+![Exam Scene](Screenshots/Practical%20Exam%20Scene2.png)
+
 
 
 ## 🎮 Features
