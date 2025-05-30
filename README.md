@@ -51,6 +51,8 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 
 ## 📁 Project Structure
 
+Completed on: **2025-05-30**
+
 - Scenes/         # Contains the main simulation and exam scenes 
 - Scripts/        # All C# scripts for tutorial logic, experiment flow, and UI
 - TutorialBot/    # Robot character logic and animations
