@@ -4,6 +4,12 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 
 
 
+## 📷 Screenshots
+
+![Main Menu](Screenshots/Main Menu.png)
+
+
+
 ## 🎮 Features
 
 - 🧫 **Full Lab Simulation**: Perform the complete sugar estimation experiment in a 3D chemistry lab.
@@ -53,11 +59,6 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 ├── Prefabs/ # Reusable lab equipment prefabs (burettes, flasks, etc.)
 └── Resources/ # Any dynamically loaded assets (if used)
 
-
-
-## 📷 Screenshots
-
-![Tutorial Mode](Screenshots/)
 
 
 ## 🧪 How to Run
