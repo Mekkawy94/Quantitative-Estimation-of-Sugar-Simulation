@@ -57,12 +57,12 @@ This project is a 3D simulation of the "Quantitative Estimation of Sugars Using 
 - Scenes         # Contains the main simulation and exam scenes 
 - Scripts        # All C# scripts for tutorial logic, experiment flow, and UI
 - TutorialBot    # Robot character logic and animations
-- Prefabs/        # Reusable lab equipment prefabs (burettes, flasks, etc.)
-- Materials/      # Custom materials used in the simulation (beakers, liquids, etc.)
-- Images/         # Diagrams and texture assets
-- Audio/          # Voiceovers, sound effects, and background music
-- UI/             # Buttons, panels, text, and grading interface
-- Resources/      # Any dynamically loaded assets (if used)
+- Prefabs        # Reusable lab equipment prefabs (burettes, flasks, etc.)
+- Materials      # Custom materials used in the simulation (beakers, liquids, etc.)
+- Images         # Diagrams and texture assets
+- Audio          # Voiceovers, sound effects, and background music
+- UI             # Buttons, panels, text, and grading interface
+- Resources      # Any dynamically loaded assets (if used)
 
 
 
